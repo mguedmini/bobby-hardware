@@ -8,3 +8,5 @@ Bobby ist ein interaktiver Roboter, der mithilfe von Gesichtserkennung und Audio
 ![Image](https://github.com/mguedmini/bobby-hardware/raw/master/bobby-komplett-deckblatt.jpg)
 
 Hier findest du die verbesserten Druckfiles, die auf den Original-Druckfiles auf [thingiverse](https://www.thingiverse.com/thing:1252523) basieren, sowie einen verbesserten und erweiterten Schaltplan.     
+
+Creative Commons License: Attribution Non-Commercial- Share Alike
